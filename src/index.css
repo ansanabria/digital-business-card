@@ -1,0 +1,15 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+}
+
+button {
+  border: none;
+  outline: none;
+  background: none;
+}
+
+img {
+  display: block;
+}
